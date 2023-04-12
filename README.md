@@ -53,7 +53,3 @@ If you created keys for GitHub and still on push git asks for login/password,
 change your repository url from HTTPS to SSH:
 
       git remote set-url origin git@github.com:manti-by/lessons.git
-
-![git+ssh](media/git_ssh.png)
-
-
