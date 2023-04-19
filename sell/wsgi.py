@@ -1,5 +1,5 @@
 """
-WSGI config for sellway project.
+WSGI config for sell project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

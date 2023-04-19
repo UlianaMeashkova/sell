@@ -1,4 +1,4 @@
-Test sellway app
+Test sell app
 ====
 
 
@@ -7,7 +7,7 @@ Git repository setup
 
 1. Create a [GitHub account](https://github.com/signup)
 
-2. Create on GitHub a repository called "sellway"
+2. Create on GitHub a repository called "sell"
 
 2. Open bash terminal
 
@@ -27,8 +27,8 @@ Git repository setup
 
 6. Clone this repository and go to it
 
-         git clone git@github.com:manti-by/sellway.git
-         cd sellway/
+         git clone git@github.com:manti-by/sell.git
+         cd sell/
 
 7. Create an empty file and check git status, new file should be colored in red
 
